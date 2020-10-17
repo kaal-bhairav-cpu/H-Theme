@@ -1,4 +1,4 @@
-                            # H-Theme
+# H-Theme
                             
                            
 New Theme Of Termux Terminial old terminal is remove by this tool after install your terminal look like a hacking terminal
