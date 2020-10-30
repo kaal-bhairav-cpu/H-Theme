@@ -23,6 +23,8 @@ bash H-Theme.sh
 
 BOOM.......
 
+Change password wallpaper etc of your termux terminal
+
 Now, Open new session then the old Theme is remove & new Theme is apply
 
 Thanks for using this tool
