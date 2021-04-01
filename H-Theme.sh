@@ -20,6 +20,8 @@ apt-get update -y
 # Upgrading the packages
 apt-get upgrade -y
 
+apt install python -y
+
 # Installing python if not installed ;if install null
 apt-get install python -y
 
